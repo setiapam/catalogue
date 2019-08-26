@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Catalogue</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_activity_home">Catalogue</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+
+    <string name="title_activity_detail_tv_show">DetailTvShowActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_show_poster">Tv Show Poster</string>
+
+    <string name="action_retry">Retry</string>
+    <string name="movie_backdrop_content_description">Movie backdropPath</string>
+    <string name="tv_backdrop_content_description">Tv Show backdropPath</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="label_overview">Overview</string>
+    <string name="release_date">Release date</string>
+    <string name="label_votes">%s votes</string>
+    <string name="action_favorite">Add to favorites</string>
+    <string name="action_remove_from_favorites">Delete from favorites</string>
+    <string name="movie_added_successfully">Movie added to your favorites successfully</string>
+    <string name="movie_removed_successfully">Movie removed from your favorites successfully</string>
+    <string name="tv_added_successfully">Tv Show added to your favorites successfully</string>
+    <string name="tv_removed_successfully">Tv Show removed from your favorites successfully</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="cast">The Cast</string>
+    <string name="language">Language</string>
+    <string name="favorites">Favorites</string>
+    <string name="movie_no_favorites">Empty. you haven\'t added any movies to your favorites yet!</string>
+    <string name="tv_no_favorites">Empty. you haven\'t added any tv shows to your favorites yet!</string>
+    <string name="film_bottom">Movie</string>
+    <string name="tv_show_bottom">Tv Show</string>
+    <string name="favorites_bottom">Favorites</string>
+    <string name="appwidget_text">FAVORITE MOVIE</string>
+    <string name="empty_text">There are no favorite films</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="daily_reminder">Catalogue App Missing You</string>
+    <string name="released_reminder"> has been release today!</string>
+    <string name="date_format">yyyy-MM-dd</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:iconSpaceReserved="false">
+    <Preference
+        app:key="language"
+        app:title="Language"
+        app:summary="Change Locale Language"/>
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="DailyReminder"
+        android:summary="Reminder for return to app"
+        android:title="Daily Reminder" />
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="ReleasedReminder"
+        android:summary="Reminder showing the movie that released today"
+        android:title="Released Reminder" />
+
+</PreferenceScreen>

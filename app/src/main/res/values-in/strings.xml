@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Katalog</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_activity_home">Katalog</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Tayangan TV</string>
+
+    <string name="title_activity_detail_tv_show">DetailTvShowActivity</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="action_retry">coba lagi</string>
+    <string name="movie_poster">Poster Film</string>
+    <string name="tv_show_poster">Poster Tayangan TV</string>
+    <string name="unknown_error">Kesalahan Tidak Diketahui</string>
+    <string name="movie_added_successfully">Film berhasil ditambahkan ke favorit</string>
+    <string name="movie_removed_successfully">Film berhasil dihapus dari favorit</string>
+    <string name="release_date">2019–07–12</string>
+    <string name="movie_backdrop_content_description">Latar belakang film</string>
+    <string name="cast">Pemain</string>
+    <string name="favorites">Favorit</string>
+    <string name="language">Bahasa</string>
+    <string name="label_overview">Gambaran</string>
+    <string name="action_favorite">Tambahkan ke favorit</string>
+    <string name="action_remove_from_favorites">Hapus dari favorit</string>
+    <string name="label_votes">%s suara</string>
+    <string name="movie_no_favorites">Kosong. Anda belum menambahkan film ke favorit Anda!</string>
+    <string name="tv_backdrop_content_description">Latar belakang tayangan tv</string>
+    <string name="tv_no_favorites">Kosong. Anda belum menambahkan tayangan tv ke favorit Anda!</string>
+    <string name="tv_added_successfully">Tayangan Tv berhasil ditambahkan ke favorit</string>
+    <string name="tv_removed_successfully">Tayangan Tv berhasil dihapus dari favorit</string>
+    <string name="tv_show_bottom">Tayangan Tv</string>
+    <string name="favorites_bottom">Favorit</string>
+    <string name="film_bottom">Film</string>
+    <string name="appwidget_text">FILM FAVORIT</string>
+    <string name="empty_text">Tidak ada film favorit
+    </string>
+    <string name="search_movie">Cari FIlm</string>
+    <string name="released_reminder">" telah rilis hari ini!"</string>
+    <string name="title_activity_settings">Pengaturan</string>
+    <string name="daily_reminder">Aplikasi Katalog Rindu Kamu</string>
+    <string name="date_format">yyyy-MM-dd</string>
+</resources>
